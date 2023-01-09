@@ -1,0 +1,15 @@
+/Users/philipedat/Projects/FGM/FGM/bin/Debug/net7.0/FGM
+/Users/philipedat/Projects/FGM/FGM/bin/Debug/net7.0/FGM.deps.json
+/Users/philipedat/Projects/FGM/FGM/bin/Debug/net7.0/FGM.runtimeconfig.json
+/Users/philipedat/Projects/FGM/FGM/bin/Debug/net7.0/FGM.dll
+/Users/philipedat/Projects/FGM/FGM/bin/Debug/net7.0/FGM.pdb
+/Users/philipedat/Projects/FGM/FGM/obj/Debug/net7.0/FGM.csproj.AssemblyReference.cache
+/Users/philipedat/Projects/FGM/FGM/obj/Debug/net7.0/FGM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/philipedat/Projects/FGM/FGM/obj/Debug/net7.0/FGM.AssemblyInfoInputs.cache
+/Users/philipedat/Projects/FGM/FGM/obj/Debug/net7.0/FGM.AssemblyInfo.cs
+/Users/philipedat/Projects/FGM/FGM/obj/Debug/net7.0/FGM.csproj.CoreCompileInputs.cache
+/Users/philipedat/Projects/FGM/FGM/obj/Debug/net7.0/FGM.dll
+/Users/philipedat/Projects/FGM/FGM/obj/Debug/net7.0/refint/FGM.dll
+/Users/philipedat/Projects/FGM/FGM/obj/Debug/net7.0/FGM.pdb
+/Users/philipedat/Projects/FGM/FGM/obj/Debug/net7.0/FGM.genruntimeconfig.cache
+/Users/philipedat/Projects/FGM/FGM/obj/Debug/net7.0/ref/FGM.dll
